@@ -1,0 +1,10 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        // Mencetak "Hello, World!" ke konsol
+        Console.WriteLine("Hello, World!");
+    }
+}
